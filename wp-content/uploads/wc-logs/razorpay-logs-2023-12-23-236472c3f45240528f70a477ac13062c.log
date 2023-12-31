@@ -1,0 +1,30 @@
+2023-12-23T12:33:53+00:00 ERROR Key Id and Key Secret are required.
+2023-12-23T12:33:53+00:00 INFO Trying to create one_cc_address_sync_cron
+2023-12-23T12:33:53+00:00 INFO Failed to create one_cc_address_sync_cron as invalid one cc merchant
+2023-12-23T12:33:53+00:00 INFO Attempting to delete one_cc_address_sync_cron, status: cancelled, message: invalid_1cc_merchant
+2023-12-23T12:33:53+00:00 INFO Deleted one_cc_address_sync_cron  if exists
+2023-12-23T12:33:53+00:00 INFO updateAddressSyncCronData: status=cancelled, message=invalid_1cc_merchant, cronStatus=deleted
+2023-12-23T12:33:53+00:00 INFO updateAddressSyncCronData:530 - Updating option: ONE_CC_ADDRESS_SYNC_CRON_HOOK
+2023-12-23T12:33:53+00:00 INFO updateAddressSyncCronData:532 -  Successfully Updated Option: ONE_CC_ADDRESS_SYNC_CRON_HOOK
+2023-12-23T12:33:53+00:00 INFO create one_cc_plugin_sync_cron successful
+2023-12-23T12:33:53+00:00 ERROR Authentication failed
+2023-12-23T12:34:03+00:00 ERROR Authentication failed
+2023-12-23T12:34:48+00:00 ERROR Authentication failed
+2023-12-23T12:36:39+00:00 ERROR Authentication failed
+2023-12-23T12:37:15+00:00 ERROR Authentication failed
+2023-12-23T12:37:20+00:00 ERROR Authentication failed
+2023-12-23T14:07:20+00:00 ERROR Authentication failed
+2023-12-23T16:38:03+00:00 ERROR Authentication failed
+2023-12-23T16:38:22+00:00 ERROR Authentication failed
+2023-12-23T16:38:34+00:00 ERROR Authentication failed
+2023-12-23T16:40:12+00:00 ERROR Authentication failed
+2023-12-23T16:40:13+00:00 ERROR Authentication failed
+2023-12-23T16:42:28+00:00 ERROR Authentication failed
+2023-12-23T16:42:47+00:00 ERROR Authentication failed
+2023-12-23T16:42:51+00:00 ERROR Authentication failed
+2023-12-23T16:42:55+00:00 ERROR Authentication failed
+2023-12-23T16:43:03+00:00 ERROR Authentication failed
+2023-12-23T16:43:14+00:00 ERROR Authentication failed
+2023-12-23T16:49:33+00:00 ERROR Authentication failed
+2023-12-23T16:49:35+00:00 ERROR Authentication failed
+2023-12-23T16:50:15+00:00 ERROR Authentication failed
